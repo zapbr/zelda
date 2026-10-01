@@ -6,7 +6,7 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 16:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:49:54 GMT</lastBuildDate>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -17,7 +17,7 @@ Date: 2027-02-22
 Time: 7:30 PM
 Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <pubDate>Mon, 22 Feb 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -30,72 +30,7 @@ Date: 2027-02-23
 Time: 7:30 PM
 Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
-      <link>https://www.wolftrap.org/show/27filene/073027/</link>
-      <guid isPermaLink="false">zelda-34444f580bf00df0a6e0</guid>
-      <description>Country: USA
-City: VIENNA, VA
-Date: 2027-07-30
-Time: 8 PM
-Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
-Venue: USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>LOS ANGELES, CA — 2027-08-25 — 8 PM</title>
-      <link>https://zelda.gameconcerts.com/</link>
-      <guid isPermaLink="false">zelda-8a9afd8f586be2c4e490</guid>
-      <description>Country: USA
-City: LOS ANGELES, CA
-Date: 2027-08-25
-Time: 8 PM
-Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
-Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-09 — 8 PM</title>
-      <link>https://zelda.gameconcerts.com/</link>
-      <guid isPermaLink="false">zelda-f2685de165e64cf5c7e9</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-09
-Time: 8 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-10 — 1 PM</title>
-      <link>https://zelda.gameconcerts.com/</link>
-      <guid isPermaLink="false">zelda-d4d8d3c0adac0eff2dd8</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-10
-Time: 1 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-10 — 8 PM</title>
-      <link>https://zelda.gameconcerts.com/</link>
-      <guid isPermaLink="false">zelda-53e9ac194f4b35509e53</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-10
-Time: 8 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <pubDate>Tue, 23 Feb 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -398,6 +333,32 @@ Venue: USA VIENNA, VA 30 JUL 2027 8 PM National Symphony Orchestra Filene Center
       <category>USA</category>
     </item>
     <item>
+      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
+      <link>https://www.wolftrap.org/show/27filene/073027/</link>
+      <guid isPermaLink="false">zelda-34444f580bf00df0a6e0</guid>
+      <description>Country: USA
+City: VIENNA, VA
+Date: 2027-07-30
+Time: 8 PM
+Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
+Venue: USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out</description>
+      <pubDate>Fri, 30 Jul 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>LOS ANGELES, CA — 2027-08-25 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-8a9afd8f586be2c4e490</guid>
+      <description>Country: USA
+City: LOS ANGELES, CA
+Date: 2027-08-25
+Time: 8 PM
+Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
+Venue: sold out</description>
+      <pubDate>Wed, 25 Aug 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
       <title>EDINBURGH — 2027-09-17 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
       <guid isPermaLink="false">zelda-5f7795ea5d9e0eb20ee1</guid>
@@ -434,6 +395,45 @@ Time: TBA
 Orchestra: San Francisco Symphony Davies Symphony Hall
 Venue: on sale 25 Mar 2027</description>
       <pubDate>Fri, 01 Oct 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-09 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-f2685de165e64cf5c7e9</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-09
+Time: 8 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Sat, 09 Oct 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-10 — 1 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-d4d8d3c0adac0eff2dd8</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-10
+Time: 1 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Sun, 10 Oct 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-10 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-53e9ac194f4b35509e53</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-10
+Time: 8 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Sun, 10 Oct 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
