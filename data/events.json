@@ -5,10 +5,10 @@
     "date": "2027-02-22",
     "time": "7:30 PM",
     "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "USA CHICAGO, IL 23 FEB 2027 7:30 PM Members of the Chicago Symphony Orchestra Symphony Center tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/",
-    "id": "3f21690a554c3f651901"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "e1217a365015a6b37301"
   },
   {
     "country": "USA",
@@ -16,10 +16,10 @@
     "date": "2027-02-23",
     "time": "7:30 PM",
     "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "UK LONDON 3 APR 2027 2:30 PM London Symphony Orchestra Royal Albert Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/",
-    "id": "bacdd664e5b2fafb84da"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "c07c223f1a752031982f"
   },
   {
     "country": "UK",
@@ -280,10 +280,10 @@
     "date": "2027-07-30",
     "time": "8 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
-    "venue": "USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl tickets",
+    "venue": "USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out",
     "status": "",
     "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "f40c96ff41e16c08339c"
+    "id": "34444f580bf00df0a6e0"
   },
   {
     "country": "USA",
@@ -291,10 +291,10 @@
     "date": "2027-08-25",
     "time": "8 PM",
     "orchestra": "Hollywood Bowl Orchestra Hollywood Bowl",
-    "venue": "UK EDINBURGH 17 SEP 2027 7:30 PM Royal Scottish National Orchestra Usher Hall sold out",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda",
-    "id": "5e1e2b4f12f68b1bec5c"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "8a9afd8f586be2c4e490"
   },
   {
     "country": "UK",
@@ -324,10 +324,10 @@
     "date": "2027-10-09",
     "time": "8 PM",
     "orchestra": "Orchestra of St. Luke's Carnegie Hall",
-    "venue": "USA NEW YORK, NY 10 OCT 2027 1 PM Orchestra of St. Luke's Carnegie Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.carnegiehall.org/calendar/2027/10/09/the-legend-of-zelda-40th-anniversary-concert-0800pm",
-    "id": "329487bca40757d97bc5"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "f2685de165e64cf5c7e9"
   },
   {
     "country": "USA",
@@ -335,10 +335,10 @@
     "date": "2027-10-10",
     "time": "1 PM",
     "orchestra": "Orchestra of St. Luke's Carnegie Hall",
-    "venue": "USA NEW YORK, NY 10 OCT 2027 8 PM Orchestra of St. Luke's Carnegie Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.carnegiehall.org/calendar/2027/10/10/the-legend-of-zelda-40th-anniversary-concert-0100pm",
-    "id": "8c44cd8500b556d2e733"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d4d8d3c0adac0eff2dd8"
   },
   {
     "country": "USA",
@@ -346,10 +346,10 @@
     "date": "2027-10-10",
     "time": "8 PM",
     "orchestra": "Orchestra of St. Luke's Carnegie Hall",
-    "venue": "USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.carnegiehall.org/calendar/2027/10/10/the-legend-of-zelda-40th-anniversary-concert-0800pm",
-    "id": "9cb84abd25e604ab1c4c"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "53e9ac194f4b35509e53"
   },
   {
     "country": "USA",

@@ -6,31 +6,96 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 09:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:27:08 GMT</lastBuildDate>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
-      <link>https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-3f21690a554c3f651901</guid>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-e1217a365015a6b37301</guid>
       <description>Country: USA
 City: CHICAGO, IL
 Date: 2027-02-22
 Time: 7:30 PM
 Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
-Venue: USA CHICAGO, IL 23 FEB 2027 7:30 PM Members of the Chicago Symphony Orchestra Symphony Center tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
       <title>CHICAGO, IL — 2027-02-23 — 7:30 PM</title>
-      <link>https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-bacdd664e5b2fafb84da</guid>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-c07c223f1a752031982f</guid>
       <description>Country: USA
 City: CHICAGO, IL
 Date: 2027-02-23
 Time: 7:30 PM
 Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
-Venue: UK LONDON 3 APR 2027 2:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
+      <link>https://www.wolftrap.org/show/27filene/073027/</link>
+      <guid isPermaLink="false">zelda-34444f580bf00df0a6e0</guid>
+      <description>Country: USA
+City: VIENNA, VA
+Date: 2027-07-30
+Time: 8 PM
+Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
+Venue: USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>LOS ANGELES, CA — 2027-08-25 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-8a9afd8f586be2c4e490</guid>
+      <description>Country: USA
+City: LOS ANGELES, CA
+Date: 2027-08-25
+Time: 8 PM
+Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-09 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-f2685de165e64cf5c7e9</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-09
+Time: 8 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-10 — 1 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-d4d8d3c0adac0eff2dd8</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-10
+Time: 1 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>NEW YORK, NY — 2027-10-10 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-53e9ac194f4b35509e53</guid>
+      <description>Country: USA
+City: NEW YORK, NY
+Date: 2027-10-10
+Time: 8 PM
+Orchestra: Orchestra of St. Luke's Carnegie Hall
+Venue: sold out</description>
+      <pubDate>Thu, 01 Oct 2026 16:27:08 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -43,7 +108,7 @@ Date: 2027-04-03
 Time: 2:30 PM
 Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: UK LONDON 3 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 03 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -56,7 +121,7 @@ Date: 2027-04-03
 Time: 7:30 PM
 Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: UK LONDON 4 APR 2027 1:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 03 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -69,7 +134,7 @@ Date: 2027-04-04
 Time: 1:30 PM
 Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: UK LONDON 4 APR 2027 6:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -82,7 +147,7 @@ Date: 2027-04-04
 Time: 6:30 PM
 Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: AUS MELBOURNE 13 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -95,7 +160,7 @@ Date: 2027-05-13
 Time: 7:30 PM
 Orchestra: Melbourne Symphony Orchestra Hamer Hall
 Venue: AUS MELBOURNE 14 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Thu, 13 May 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -108,7 +173,7 @@ Date: 2027-05-14
 Time: 7:30 PM
 Orchestra: Melbourne Symphony Orchestra Hamer Hall
 Venue: AUS MELBOURNE 15 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 14 May 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -121,7 +186,7 @@ Date: 2027-05-15
 Time: 7:30 PM
 Orchestra: Melbourne Symphony Orchestra Hamer Hall
 Venue: AUS MELBOURNE 16 MAY 2027 1 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 15 May 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -134,7 +199,7 @@ Date: 2027-05-16
 Time: 1 PM
 Orchestra: Melbourne Symphony Orchestra Hamer Hall
 Venue: USA BOSTON, MA 29 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sun, 16 May 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -147,7 +212,7 @@ Date: 2027-05-29
 Time: 2 PM
 Orchestra: Boston Pops Orchestra Symphony Hall
 Venue: USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -160,7 +225,7 @@ Date: 2027-05-29
 Time: 7:30 PM
 Orchestra: Boston Pops Orchestra Symphony Hall
 Venue: SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -173,7 +238,7 @@ Date: 2027-06-18
 Time: 7 PM
 Orchestra: Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 18 Jun 2027 00:00:00 GMT</pubDate>
       <category>SWE</category>
     </item>
     <item>
@@ -186,7 +251,7 @@ Date: 2027-06-19
 Time: 7 PM
 Orchestra: Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 19 Jun 2027 00:00:00 GMT</pubDate>
       <category>SWE</category>
     </item>
     <item>
@@ -199,7 +264,7 @@ Date: 2027-06-25
 Time: 7:30 PM
 Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
 Venue: USA DALLAS, TX 26 JUN 2027 7:30 PM Dallas Symphony Orchestra Morton H. Meyerson Symphony Center tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 25 Jun 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -212,7 +277,7 @@ Date: 2027-06-26
 Time: 7:30 PM
 Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
 Venue: USA DALLAS, TX 27 JUN 2027 2 PM Dallas Symphony Orchestra Morton H. Meyerson Symphony Center tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 26 Jun 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -225,7 +290,7 @@ Date: 2027-06-27
 Time: 2 PM
 Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
 Venue: AUS SYDNEY 9 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sun, 27 Jun 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -238,7 +303,7 @@ Date: 2027-07-09
 Time: 7 PM
 Orchestra: Sydney Symphony Orchestra Sydney Opera House
 Venue: AUS SYDNEY 10 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 09 Jul 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -251,7 +316,7 @@ Date: 2027-07-10
 Time: 2 PM
 Orchestra: Sydney Symphony Orchestra Sydney Opera House
 Venue: AUS SYDNEY 10 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 10 Jul 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -264,7 +329,7 @@ Date: 2027-07-10
 Time: 7 PM
 Orchestra: Sydney Symphony Orchestra Sydney Opera House
 Venue: USA SEATTLE, WA 16 JUL 2027 8 PM Seattle Symphony Benaroya Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 10 Jul 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
     </item>
     <item>
@@ -277,7 +342,7 @@ Date: 2027-07-16
 Time: 8 PM
 Orchestra: Seattle Symphony Benaroya Hall
 Venue: USA SEATTLE, WA 17 JUL 2027 8 PM Seattle Symphony Benaroya Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 16 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -290,7 +355,7 @@ Date: 2027-07-17
 Time: 8 PM
 Orchestra: Seattle Symphony Benaroya Hall
 Venue: USA SEATTLE, WA 18 JUL 2027 2 PM Seattle Symphony Benaroya Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 17 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -303,7 +368,7 @@ Date: 2027-07-18
 Time: 2 PM
 Orchestra: Seattle Symphony Benaroya Hall
 Venue: USA HOUSTON, TX 23 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sun, 18 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -316,7 +381,7 @@ Date: 2027-07-23
 Time: 7:30 PM
 Orchestra: Houston Symphony Jones Hall for the Performing Arts
 Venue: USA HOUSTON, TX 24 JUL 2027 2 PM Houston Symphony Jones Hall for the Performing Arts tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 23 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -329,33 +394,7 @@ Date: 2027-07-24
 Time: 2 PM
 Orchestra: Houston Symphony Jones Hall for the Performing Arts
 Venue: USA VIENNA, VA 30 JUL 2027 8 PM National Symphony Orchestra Filene Center at Wolf Trap info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
-      <link>https://www.wolftrap.org/show/27filene/073027/</link>
-      <guid isPermaLink="false">zelda-f40c96ff41e16c08339c</guid>
-      <description>Country: USA
-City: VIENNA, VA
-Date: 2027-07-30
-Time: 8 PM
-Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
-Venue: USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>LOS ANGELES, CA — 2027-08-25 — 8 PM</title>
-      <link>https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-5e1e2b4f12f68b1bec5c</guid>
-      <description>Country: USA
-City: LOS ANGELES, CA
-Date: 2027-08-25
-Time: 8 PM
-Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
-Venue: UK EDINBURGH 17 SEP 2027 7:30 PM Royal Scottish National Orchestra Usher Hall sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 24 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -368,7 +407,7 @@ Date: 2027-09-17
 Time: 7:30 PM
 Orchestra: Royal Scottish National Orchestra Usher Hall
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 17 Sep 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -381,7 +420,7 @@ Date: 2027-09-18
 Time: 7:30 PM
 Orchestra: Royal Scottish National Orchestra Glasgow Royal Concert Hall
 Venue: sold out</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Sat, 18 Sep 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>
@@ -394,46 +433,7 @@ Date: 2027-10-01
 Time: TBA
 Orchestra: San Francisco Symphony Davies Symphony Hall
 Venue: on sale 25 Mar 2027</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-09 — 8 PM</title>
-      <link>https://www.carnegiehall.org/calendar/2027/10/09/the-legend-of-zelda-40th-anniversary-concert-0800pm</link>
-      <guid isPermaLink="false">zelda-329487bca40757d97bc5</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-09
-Time: 8 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: USA NEW YORK, NY 10 OCT 2027 1 PM Orchestra of St. Luke's Carnegie Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-10 — 1 PM</title>
-      <link>https://www.carnegiehall.org/calendar/2027/10/10/the-legend-of-zelda-40th-anniversary-concert-0100pm</link>
-      <guid isPermaLink="false">zelda-8c44cd8500b556d2e733</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-10
-Time: 1 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: USA NEW YORK, NY 10 OCT 2027 8 PM Orchestra of St. Luke's Carnegie Hall tickets</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>NEW YORK, NY — 2027-10-10 — 8 PM</title>
-      <link>https://www.carnegiehall.org/calendar/2027/10/10/the-legend-of-zelda-40th-anniversary-concert-0800pm</link>
-      <guid isPermaLink="false">zelda-9cb84abd25e604ab1c4c</guid>
-      <description>Country: USA
-City: NEW YORK, NY
-Date: 2027-10-10
-Time: 8 PM
-Orchestra: Orchestra of St. Luke's Carnegie Hall
-Venue: USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 01 Oct 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -446,7 +446,7 @@ Date: 2027-10-21
 Time: 7:30 PM
 Orchestra: Toronto Symphony Orchestra Roy Thomson Hall
 Venue: CANADA TORONTO, ON 22 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Thu, 21 Oct 2027 00:00:00 GMT</pubDate>
       <category>CANADA</category>
     </item>
     <item>
@@ -459,7 +459,7 @@ Date: 2027-10-22
 Time: 7:30 PM
 Orchestra: Toronto Symphony Orchestra Roy Thomson Hall
 Venue: Presented under license from Nintendo. © Nintendo. The Legend of Zelda is a trademark of Nintendo. Contact, Privacy &amp; Legal</description>
-      <pubDate>Thu, 01 Oct 2026 09:16:47 GMT</pubDate>
+      <pubDate>Fri, 22 Oct 2027 00:00:00 GMT</pubDate>
       <category>CANADA</category>
     </item>
   </channel>
