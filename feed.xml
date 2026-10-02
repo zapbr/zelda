@@ -6,7 +6,46 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 01:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:31:47 GMT</lastBuildDate>
+    <item>
+      <title>DALLAS, TX — 2027-06-25 — 7:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-0fd07364204fd5bb18ad</guid>
+      <description>Country: USA
+City: DALLAS, TX
+Date: 2027-06-25
+Time: 7:30 PM
+Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
+Venue: sold out</description>
+      <pubDate>Fri, 02 Oct 2026 08:31:47 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>DALLAS, TX — 2027-06-26 — 7:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-16bf612ed172ae0e18a7</guid>
+      <description>Country: USA
+City: DALLAS, TX
+Date: 2027-06-26
+Time: 7:30 PM
+Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
+Venue: sold out</description>
+      <pubDate>Fri, 02 Oct 2026 08:31:47 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>DALLAS, TX — 2027-06-27 — 2 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-14d1ed7a448bc883b34b</guid>
+      <description>Country: USA
+City: DALLAS, TX
+Date: 2027-06-27
+Time: 2 PM
+Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
+Venue: sold out</description>
+      <pubDate>Fri, 02 Oct 2026 08:31:47 GMT</pubDate>
+      <category>USA</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -188,45 +227,6 @@ Orchestra: Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm
 Venue: sold out</description>
       <pubDate>Sat, 19 Jun 2027 00:00:00 GMT</pubDate>
       <category>SWE</category>
-    </item>
-    <item>
-      <title>DALLAS, TX — 2027-06-25 — 7:30 PM</title>
-      <link>https://www.dallassymphony.org/productions/the-legend-of-zelda-40th-anniversary-concert/</link>
-      <guid isPermaLink="false">zelda-fe7ee369c25eb0faa300</guid>
-      <description>Country: USA
-City: DALLAS, TX
-Date: 2027-06-25
-Time: 7:30 PM
-Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
-Venue: USA DALLAS, TX 26 JUN 2027 7:30 PM Dallas Symphony Orchestra Morton H. Meyerson Symphony Center tickets</description>
-      <pubDate>Fri, 25 Jun 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>DALLAS, TX — 2027-06-26 — 7:30 PM</title>
-      <link>https://www.dallassymphony.org/productions/the-legend-of-zelda-40th-anniversary-concert/</link>
-      <guid isPermaLink="false">zelda-bed574562df2bd695ba5</guid>
-      <description>Country: USA
-City: DALLAS, TX
-Date: 2027-06-26
-Time: 7:30 PM
-Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
-Venue: USA DALLAS, TX 27 JUN 2027 2 PM Dallas Symphony Orchestra Morton H. Meyerson Symphony Center tickets</description>
-      <pubDate>Sat, 26 Jun 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>DALLAS, TX — 2027-06-27 — 2 PM</title>
-      <link>https://www.dallassymphony.org/productions/the-legend-of-zelda-40th-anniversary-concert/</link>
-      <guid isPermaLink="false">zelda-af079dfb95ae18b58feb</guid>
-      <description>Country: USA
-City: DALLAS, TX
-Date: 2027-06-27
-Time: 2 PM
-Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
-Venue: AUS SYDNEY 9 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Sun, 27 Jun 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
     </item>
     <item>
       <title>SYDNEY — 2027-07-09 — 7 PM</title>
