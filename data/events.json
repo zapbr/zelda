@@ -214,10 +214,10 @@
     "date": "2027-07-10",
     "time": "7 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "USA SEATTLE, WA 16 JUL 2027 8 PM Seattle Symphony Benaroya Hall tickets",
+    "venue": "USA SEATTLE, WA 16 JUL 2027 8 PM Seattle Symphony Benaroya Hall sold out",
     "status": "",
     "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "d052ea73732f80830b34"
+    "id": "907c8f2389e16c7d30a0"
   },
   {
     "country": "USA",
@@ -225,10 +225,10 @@
     "date": "2027-07-16",
     "time": "8 PM",
     "orchestra": "Seattle Symphony Benaroya Hall",
-    "venue": "USA SEATTLE, WA 17 JUL 2027 8 PM Seattle Symphony Benaroya Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
-    "id": "b7f73e571e8accce6730"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "2e37b808c96e762146b8"
   },
   {
     "country": "USA",
@@ -236,10 +236,10 @@
     "date": "2027-07-17",
     "time": "8 PM",
     "orchestra": "Seattle Symphony Benaroya Hall",
-    "venue": "USA SEATTLE, WA 18 JUL 2027 2 PM Seattle Symphony Benaroya Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
-    "id": "173167ee15bb815f06cd"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "c727db53760951692cd1"
   },
   {
     "country": "USA",
@@ -247,10 +247,10 @@
     "date": "2027-07-18",
     "time": "2 PM",
     "orchestra": "Seattle Symphony Benaroya Hall",
-    "venue": "USA HOUSTON, TX 23 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
-    "id": "c052ea700e46e32a5089"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "ad8dd4fb94e94ac1eaa4"
   },
   {
     "country": "USA",
