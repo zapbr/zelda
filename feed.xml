@@ -6,7 +6,98 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 09:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:27:56 GMT</lastBuildDate>
+    <item>
+      <title>LONDON — 2027-04-03 — 2:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-d7723c8b9171f2dd45c4</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-03
+Time: 2:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: sold out</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>LONDON — 2027-04-03 — 7:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-3eb37bb78a67b6cfeccf</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-03
+Time: 7:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: sold out</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>LONDON — 2027-04-04 — 1:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-01e9da6f78ddc05fc3ac</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-04
+Time: 1:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: sold out</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>LONDON — 2027-04-04 — 6:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-223d5a4c3703713630e6</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-04
+Time: 6:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: sold out</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>MELBOURNE — 2027-05-13 — 7:30 PM</title>
+      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
+      <guid isPermaLink="false">zelda-b53b8112d90a2bcd6b07</guid>
+      <description>Country: AUS
+City: MELBOURNE
+Date: 2027-05-13
+Time: 7:30 PM
+Orchestra: Melbourne Symphony Orchestra Hamer Hall
+Venue: AUS MELBOURNE 14 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall tickets</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>AUS</category>
+    </item>
+    <item>
+      <title>MELBOURNE — 2027-05-14 — 7:30 PM</title>
+      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
+      <guid isPermaLink="false">zelda-65f0394befabf98807d8</guid>
+      <description>Country: AUS
+City: MELBOURNE
+Date: 2027-05-14
+Time: 7:30 PM
+Orchestra: Melbourne Symphony Orchestra Hamer Hall
+Venue: AUS MELBOURNE 15 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall tickets</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>AUS</category>
+    </item>
+    <item>
+      <title>MELBOURNE — 2027-05-15 — 7:30 PM</title>
+      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
+      <guid isPermaLink="false">zelda-121f59f1f27d5dce7738</guid>
+      <description>Country: AUS
+City: MELBOURNE
+Date: 2027-05-15
+Time: 7:30 PM
+Orchestra: Melbourne Symphony Orchestra Hamer Hall
+Venue: AUS MELBOURNE 16 MAY 2027 1 PM Melbourne Symphony Orchestra Hamer Hall tickets</description>
+      <pubDate>Mon, 05 Oct 2026 18:27:56 GMT</pubDate>
+      <category>AUS</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -32,97 +123,6 @@ Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
 Venue: sold out</description>
       <pubDate>Tue, 23 Feb 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-03 — 2:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-8d609421abe783f66b68</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-03
-Time: 2:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: UK LONDON 3 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Sat, 03 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-03 — 7:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-b689478bc7a805e5ae12</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-03
-Time: 7:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: UK LONDON 4 APR 2027 1:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Sat, 03 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-04 — 1:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-b4decfa28b59b2aae01e</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-04
-Time: 1:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: UK LONDON 4 APR 2027 6:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
-      <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-04 — 6:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-5a604835ace40af2b809</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-04
-Time: 6:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: AUS MELBOURNE 13 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>MELBOURNE — 2027-05-13 — 7:30 PM</title>
-      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-e3653d3fa2d57b867ada</guid>
-      <description>Country: AUS
-City: MELBOURNE
-Date: 2027-05-13
-Time: 7:30 PM
-Orchestra: Melbourne Symphony Orchestra Hamer Hall
-Venue: AUS MELBOURNE 14 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Thu, 13 May 2027 00:00:00 GMT</pubDate>
-      <category>AUS</category>
-    </item>
-    <item>
-      <title>MELBOURNE — 2027-05-14 — 7:30 PM</title>
-      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-1d2248100df91faeb39f</guid>
-      <description>Country: AUS
-City: MELBOURNE
-Date: 2027-05-14
-Time: 7:30 PM
-Orchestra: Melbourne Symphony Orchestra Hamer Hall
-Venue: AUS MELBOURNE 15 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Fri, 14 May 2027 00:00:00 GMT</pubDate>
-      <category>AUS</category>
-    </item>
-    <item>
-      <title>MELBOURNE — 2027-05-15 — 7:30 PM</title>
-      <link>https://www.mso.com.au/performance/2027-the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-b5b487787e693b139b42</guid>
-      <description>Country: AUS
-City: MELBOURNE
-Date: 2027-05-15
-Time: 7:30 PM
-Orchestra: Melbourne Symphony Orchestra Hamer Hall
-Venue: AUS MELBOURNE 16 MAY 2027 1 PM Melbourne Symphony Orchestra Hamer Hall info</description>
-      <pubDate>Sat, 15 May 2027 00:00:00 GMT</pubDate>
-      <category>AUS</category>
     </item>
     <item>
       <title>MELBOURNE — 2027-05-16 — 1 PM</title>
