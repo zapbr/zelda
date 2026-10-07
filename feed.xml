@@ -6,33 +6,7 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 00:42:30 GMT</lastBuildDate>
-    <item>
-      <title>BOSTON, MA — 2027-05-29 — 7:30 PM</title>
-      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-89f24e38d878245fa246</guid>
-      <description>Country: USA
-City: BOSTON, MA
-Date: 2027-05-29
-Time: 7:30 PM
-Orchestra: Boston Pops Orchestra Symphony Hall
-Venue: USA BOSTON, MA 30 MAY 2027 2:00 PM Boston Pops Orchestra Symphony Hall info</description>
-      <pubDate>Wed, 07 Oct 2026 00:42:30 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>BOSTON, MA — 2027-05-30 — 2:00 PM</title>
-      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-387e6374852f115b55bf</guid>
-      <description>Country: USA
-City: BOSTON, MA
-Date: 2027-05-30
-Time: 2:00 PM
-Orchestra: Boston Pops Orchestra Symphony Hall
-Venue: SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out</description>
-      <pubDate>Wed, 07 Oct 2026 00:42:30 GMT</pubDate>
-      <category>USA</category>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 07:14:36 GMT</lastBuildDate>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -174,6 +148,32 @@ Time: 2 PM
 Orchestra: Boston Pops Orchestra Symphony Hall
 Venue: USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall info</description>
       <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>BOSTON, MA — 2027-05-29 — 7:30 PM</title>
+      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
+      <guid isPermaLink="false">zelda-89f24e38d878245fa246</guid>
+      <description>Country: USA
+City: BOSTON, MA
+Date: 2027-05-29
+Time: 7:30 PM
+Orchestra: Boston Pops Orchestra Symphony Hall
+Venue: USA BOSTON, MA 30 MAY 2027 2:00 PM Boston Pops Orchestra Symphony Hall info</description>
+      <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>BOSTON, MA — 2027-05-30 — 2:00 PM</title>
+      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
+      <guid isPermaLink="false">zelda-387e6374852f115b55bf</guid>
+      <description>Country: USA
+City: BOSTON, MA
+Date: 2027-05-30
+Time: 2:00 PM
+Orchestra: Boston Pops Orchestra Symphony Hall
+Venue: SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out</description>
+      <pubDate>Sun, 30 May 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
