@@ -126,10 +126,21 @@
     "date": "2027-05-29",
     "time": "7:30 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
+    "venue": "USA BOSTON, MA 30 MAY 2027 2:00 PM Boston Pops Orchestra Symphony Hall info",
+    "status": "",
+    "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
+    "id": "89f24e38d878245fa246"
+  },
+  {
+    "country": "USA",
+    "city": "BOSTON, MA",
+    "date": "2027-05-30",
+    "time": "2:00 PM",
+    "orchestra": "Boston Pops Orchestra Symphony Hall",
     "venue": "SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out",
     "status": "",
     "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "f4ead7849ca2c19d1095"
+    "id": "387e6374852f115b55bf"
   },
   {
     "country": "SWE",
