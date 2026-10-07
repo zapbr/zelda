@@ -71,10 +71,10 @@
     "date": "2027-05-13",
     "time": "7:30 PM",
     "orchestra": "Melbourne Symphony Orchestra Hamer Hall",
-    "venue": "AUS MELBOURNE 14 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.mso.com.au/performance/2027-the-legend-of-zelda",
-    "id": "b53b8112d90a2bcd6b07"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "4832d8c20783e8fe7bc1"
   },
   {
     "country": "AUS",
@@ -82,10 +82,10 @@
     "date": "2027-05-14",
     "time": "7:30 PM",
     "orchestra": "Melbourne Symphony Orchestra Hamer Hall",
-    "venue": "AUS MELBOURNE 15 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.mso.com.au/performance/2027-the-legend-of-zelda",
-    "id": "65f0394befabf98807d8"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "2b4be43edc01f3aaa75b"
   },
   {
     "country": "AUS",
@@ -93,10 +93,10 @@
     "date": "2027-05-15",
     "time": "7:30 PM",
     "orchestra": "Melbourne Symphony Orchestra Hamer Hall",
-    "venue": "AUS MELBOURNE 16 MAY 2027 1 PM Melbourne Symphony Orchestra Hamer Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.mso.com.au/performance/2027-the-legend-of-zelda",
-    "id": "121f59f1f27d5dce7738"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d7ea5e9d3ef16e06543c"
   },
   {
     "country": "AUS",
@@ -104,10 +104,10 @@
     "date": "2027-05-16",
     "time": "1 PM",
     "orchestra": "Melbourne Symphony Orchestra Hamer Hall",
-    "venue": "USA BOSTON, MA 29 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall info",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.mso.com.au/performance/2027-the-legend-of-zelda",
-    "id": "97068f7be828132e19d4"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d37cf524efcc560040eb"
   },
   {
     "country": "USA",
@@ -126,21 +126,21 @@
     "date": "2027-05-29",
     "time": "7:30 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "USA BOSTON, MA 30 MAY 2027 2:00 PM Boston Pops Orchestra Symphony Hall info",
+    "venue": "USA BOSTON, MA 30 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall info",
     "status": "",
     "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "89f24e38d878245fa246"
+    "id": "cc305ae0f4b18acb1ab5"
   },
   {
     "country": "USA",
     "city": "BOSTON, MA",
     "date": "2027-05-30",
-    "time": "2:00 PM",
+    "time": "2 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
     "venue": "SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out",
     "status": "",
     "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "387e6374852f115b55bf"
+    "id": "fc68dee0a1d03c6b8e75"
   },
   {
     "country": "SWE",
