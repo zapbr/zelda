@@ -27,10 +27,10 @@
     "date": "2027-04-03",
     "time": "2:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "sold out",
+    "venue": "UK LONDON 3 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall info",
     "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "d7723c8b9171f2dd45c4"
+    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "86a7f8c7d94742e33822"
   },
   {
     "country": "UK",
@@ -38,10 +38,10 @@
     "date": "2027-04-03",
     "time": "7:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "sold out",
+    "venue": "UK LONDON 4 APR 2027 1:30 PM London Symphony Orchestra Royal Albert Hall info",
     "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "3eb37bb78a67b6cfeccf"
+    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "bda410b685af62b43d8e"
   },
   {
     "country": "UK",
@@ -49,10 +49,10 @@
     "date": "2027-04-04",
     "time": "1:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "sold out",
+    "venue": "UK LONDON 4 APR 2027 6:30 PM London Symphony Orchestra Royal Albert Hall info",
     "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "01e9da6f78ddc05fc3ac"
+    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "ebe91eee773c9b64b53e"
   },
   {
     "country": "UK",
@@ -60,10 +60,10 @@
     "date": "2027-04-04",
     "time": "6:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "sold out",
+    "venue": "AUS MELBOURNE 13 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall sold out",
     "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "223d5a4c3703713630e6"
+    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "6f6003a74b358c8314c7"
   },
   {
     "country": "AUS",
@@ -115,10 +115,10 @@
     "date": "2027-05-29",
     "time": "2 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall info",
+    "venue": "USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall tickets",
     "status": "",
     "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "4b4b88d266989437720b"
+    "id": "78b9928beb9c1d945ce6"
   },
   {
     "country": "USA",
@@ -126,10 +126,10 @@
     "date": "2027-05-29",
     "time": "7:30 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "USA BOSTON, MA 30 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall info",
+    "venue": "USA BOSTON, MA 30 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall tickets",
     "status": "",
     "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "cc305ae0f4b18acb1ab5"
+    "id": "f7752fd57566057fa3c2"
   },
   {
     "country": "USA",
@@ -291,10 +291,21 @@
     "date": "2027-07-30",
     "time": "8 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
+    "venue": "USA VIENNA, VA 31 JUL 2027 8 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
+    "status": "",
+    "url": "https://www.wolftrap.org/show/27filene/073027/",
+    "id": "20f9bbd93e3ccc3bb5e8"
+  },
+  {
+    "country": "USA",
+    "city": "VIENNA, VA",
+    "date": "2027-07-31",
+    "time": "8 PM",
+    "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
     "venue": "USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out",
     "status": "",
     "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "34444f580bf00df0a6e0"
+    "id": "7a7963502fbc851514dd"
   },
   {
     "country": "USA",
@@ -363,17 +374,6 @@
     "id": "53e9ac194f4b35509e53"
   },
   {
-    "country": "USA",
-    "city": "SAN FRANCISCO, CA",
-    "date": "2027-10-01",
-    "time": "TBA",
-    "orchestra": "San Francisco Symphony Davies Symphony Hall",
-    "venue": "on sale 25 Mar 2027",
-    "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "758f6a4afb99264dd88f"
-  },
-  {
     "country": "CANADA",
     "city": "TORONTO, ON",
     "date": "2027-10-21",
@@ -390,9 +390,20 @@
     "date": "2027-10-22",
     "time": "7:30 PM",
     "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
-    "venue": "Presented under license from Nintendo. © Nintendo. The Legend of Zelda is a trademark of Nintendo. Contact, Privacy & Legal",
+    "venue": "USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027",
     "status": "",
     "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
-    "id": "40694bb23be23e2a8584"
+    "id": "75a1cb15e7e0d1167955"
+  },
+  {
+    "country": "USA",
+    "city": "SAN FRANCISCO, CA",
+    "date": "2027-10-01",
+    "time": "TBA",
+    "orchestra": "San Francisco Symphony Davies Symphony Hall",
+    "venue": "on sale 25 Mar 2027",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "758f6a4afb99264dd88f"
   }
 ]
