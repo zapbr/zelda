@@ -6,7 +6,72 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 16:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:54:38 GMT</lastBuildDate>
+    <item>
+      <title>BOSTON, MA — 2027-05-29 — 2 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-397b19f1d67fda541e98</guid>
+      <description>Country: USA
+City: BOSTON, MA
+Date: 2027-05-29
+Time: 2 PM
+Orchestra: Boston Pops Orchestra Symphony Hall
+Venue: sold out</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:38 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>BOSTON, MA — 2027-05-29 — 7:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-849137fac5c8e58c00db</guid>
+      <description>Country: USA
+City: BOSTON, MA
+Date: 2027-05-29
+Time: 7:30 PM
+Orchestra: Boston Pops Orchestra Symphony Hall
+Venue: sold out</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:38 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>BOSTON, MA — 2027-05-30 — 2 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-6a54becd27ae62aae830</guid>
+      <description>Country: USA
+City: BOSTON, MA
+Date: 2027-05-30
+Time: 2 PM
+Orchestra: Boston Pops Orchestra Symphony Hall
+Venue: sold out</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:38 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-f1586b289d0940b4b6ca</guid>
+      <description>Country: USA
+City: VIENNA, VA
+Date: 2027-07-30
+Time: 8 PM
+Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
+Venue: sold out</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:38 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>VIENNA, VA — 2027-07-31 — 8 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-4f73204c4b319db6ce4b</guid>
+      <description>Country: USA
+City: VIENNA, VA
+Date: 2027-07-31
+Time: 8 PM
+Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
+Venue: sold out</description>
+      <pubDate>Fri, 09 Oct 2026 20:54:38 GMT</pubDate>
+      <category>USA</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -136,45 +201,6 @@ Orchestra: Melbourne Symphony Orchestra Hamer Hall
 Venue: sold out</description>
       <pubDate>Sun, 16 May 2027 00:00:00 GMT</pubDate>
       <category>AUS</category>
-    </item>
-    <item>
-      <title>BOSTON, MA — 2027-05-29 — 2 PM</title>
-      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-78b9928beb9c1d945ce6</guid>
-      <description>Country: USA
-City: BOSTON, MA
-Date: 2027-05-29
-Time: 2 PM
-Orchestra: Boston Pops Orchestra Symphony Hall
-Venue: USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall tickets</description>
-      <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>BOSTON, MA — 2027-05-29 — 7:30 PM</title>
-      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-f7752fd57566057fa3c2</guid>
-      <description>Country: USA
-City: BOSTON, MA
-Date: 2027-05-29
-Time: 7:30 PM
-Orchestra: Boston Pops Orchestra Symphony Hall
-Venue: USA BOSTON, MA 30 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall tickets</description>
-      <pubDate>Sat, 29 May 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>BOSTON, MA — 2027-05-30 — 2 PM</title>
-      <link>https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-fc68dee0a1d03c6b8e75</guid>
-      <description>Country: USA
-City: BOSTON, MA
-Date: 2027-05-30
-Time: 2 PM
-Orchestra: Boston Pops Orchestra Symphony Hall
-Venue: SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out</description>
-      <pubDate>Sun, 30 May 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
     </item>
     <item>
       <title>STOCKHOLM — 2027-06-18 — 7 PM</title>
@@ -343,32 +369,6 @@ Time: 2 PM
 Orchestra: Houston Symphony Jones Hall for the Performing Arts
 Venue: sold out</description>
       <pubDate>Sat, 24 Jul 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>VIENNA, VA — 2027-07-30 — 8 PM</title>
-      <link>https://www.wolftrap.org/show/27filene/073027/</link>
-      <guid isPermaLink="false">zelda-20f9bbd93e3ccc3bb5e8</guid>
-      <description>Country: USA
-City: VIENNA, VA
-Date: 2027-07-30
-Time: 8 PM
-Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
-Venue: USA VIENNA, VA 31 JUL 2027 8 PM National Symphony Orchestra Filene Center at Wolf Trap tickets</description>
-      <pubDate>Fri, 30 Jul 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>VIENNA, VA — 2027-07-31 — 8 PM</title>
-      <link>https://www.wolftrap.org/show/27filene/073027/</link>
-      <guid isPermaLink="false">zelda-7a7963502fbc851514dd</guid>
-      <description>Country: USA
-City: VIENNA, VA
-Date: 2027-07-31
-Time: 8 PM
-Orchestra: National Symphony Orchestra Filene Center at Wolf Trap
-Venue: USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out</description>
-      <pubDate>Sat, 31 Jul 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>

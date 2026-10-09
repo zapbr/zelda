@@ -115,10 +115,10 @@
     "date": "2027-05-29",
     "time": "2 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "USA BOSTON, MA 29 MAY 2027 7:30 PM Boston Pops Orchestra Symphony Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "78b9928beb9c1d945ce6"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "397b19f1d67fda541e98"
   },
   {
     "country": "USA",
@@ -126,10 +126,10 @@
     "date": "2027-05-29",
     "time": "7:30 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "USA BOSTON, MA 30 MAY 2027 2 PM Boston Pops Orchestra Symphony Hall tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "f7752fd57566057fa3c2"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "849137fac5c8e58c00db"
   },
   {
     "country": "USA",
@@ -137,10 +137,10 @@
     "date": "2027-05-30",
     "time": "2 PM",
     "orchestra": "Boston Pops Orchestra Symphony Hall",
-    "venue": "SWE STOCKHOLM 18 JUN 2027 7 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm sold out",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.bso.org/events/may-29-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "fc68dee0a1d03c6b8e75"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "6a54becd27ae62aae830"
   },
   {
     "country": "SWE",
@@ -291,10 +291,10 @@
     "date": "2027-07-30",
     "time": "8 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
-    "venue": "USA VIENNA, VA 31 JUL 2027 8 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "20f9bbd93e3ccc3bb5e8"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "f1586b289d0940b4b6ca"
   },
   {
     "country": "USA",
@@ -302,10 +302,10 @@
     "date": "2027-07-31",
     "time": "8 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
-    "venue": "USA LOS ANGELES, CA 25 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl sold out",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "7a7963502fbc851514dd"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "4f73204c4b319db6ce4b"
   },
   {
     "country": "USA",
