@@ -6,7 +6,33 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 15 Oct 2026 01:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:26:54 GMT</lastBuildDate>
+    <item>
+      <title>SYDNEY — 2027-07-09 — 7 PM</title>
+      <link>https://www.sydneysymphony.com/events/the-legend-of-zelda-2027</link>
+      <guid isPermaLink="false">zelda-1f859ca99e342e429538</guid>
+      <description>Country: AUS
+City: SYDNEY
+Date: 2027-07-09
+Time: 7 PM
+Orchestra: Sydney Symphony Orchestra Sydney Opera House
+Venue: AUS SYDNEY 10 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets</description>
+      <pubDate>Thu, 15 Oct 2026 07:26:54 GMT</pubDate>
+      <category>AUS</category>
+    </item>
+    <item>
+      <title>SYDNEY — 2027-07-10 — 2 PM</title>
+      <link>https://www.sydneysymphony.com/events/the-legend-of-zelda-2027</link>
+      <guid isPermaLink="false">zelda-a33908bb00e1b34b56e0</guid>
+      <description>Country: AUS
+City: SYDNEY
+Date: 2027-07-10
+Time: 2 PM
+Orchestra: Sydney Symphony Orchestra Sydney Opera House
+Venue: AUS SYDNEY 10 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House tickets</description>
+      <pubDate>Thu, 15 Oct 2026 07:26:54 GMT</pubDate>
+      <category>AUS</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -240,32 +266,6 @@ Orchestra: Dallas Symphony Orchestra Morton H. Meyerson Symphony Center
 Venue: sold out</description>
       <pubDate>Sun, 27 Jun 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
-    </item>
-    <item>
-      <title>SYDNEY — 2027-07-09 — 7 PM</title>
-      <link>https://www.sydneysymphony.com/events/the-legend-of-zelda-2027</link>
-      <guid isPermaLink="false">zelda-86b4a373d09beb8f89d0</guid>
-      <description>Country: AUS
-City: SYDNEY
-Date: 2027-07-09
-Time: 7 PM
-Orchestra: Sydney Symphony Orchestra Sydney Opera House
-Venue: AUS SYDNEY 10 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Fri, 09 Jul 2027 00:00:00 GMT</pubDate>
-      <category>AUS</category>
-    </item>
-    <item>
-      <title>SYDNEY — 2027-07-10 — 2 PM</title>
-      <link>https://www.sydneysymphony.com/events/the-legend-of-zelda-2027</link>
-      <guid isPermaLink="false">zelda-b5ef61e2806de825192c</guid>
-      <description>Country: AUS
-City: SYDNEY
-Date: 2027-07-10
-Time: 2 PM
-Orchestra: Sydney Symphony Orchestra Sydney Opera House
-Venue: AUS SYDNEY 10 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House info</description>
-      <pubDate>Sat, 10 Jul 2027 00:00:00 GMT</pubDate>
-      <category>AUS</category>
     </item>
     <item>
       <title>SYDNEY — 2027-07-10 — 7 PM</title>
