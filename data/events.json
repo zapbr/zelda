@@ -1,27 +1,5 @@
 [
   {
-    "country": "USA",
-    "city": "CHICAGO, IL",
-    "date": "2027-02-22",
-    "time": "7:30 PM",
-    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "sold out",
-    "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "e1217a365015a6b37301"
-  },
-  {
-    "country": "USA",
-    "city": "CHICAGO, IL",
-    "date": "2027-02-23",
-    "time": "7:30 PM",
-    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "sold out",
-    "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "c07c223f1a752031982f"
-  },
-  {
     "country": "UK",
     "city": "LONDON",
     "date": "2027-04-03",
@@ -60,10 +38,65 @@
     "date": "2027-04-04",
     "time": "6:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "AUS MELBOURNE 13 MAY 2027 7:30 PM Melbourne Symphony Orchestra Hamer Hall sold out",
+    "venue": "CANADA TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
     "status": "",
     "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "6f6003a74b358c8314c7"
+    "id": "a70c32ae4e9f6f22a2ae"
+  },
+  {
+    "country": "CANADA",
+    "city": "TORONTO, ON",
+    "date": "2027-10-21",
+    "time": "7:30 PM",
+    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
+    "venue": "CANADA TORONTO, ON 22 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
+    "status": "",
+    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
+    "id": "858f257796ebb0ae61a9"
+  },
+  {
+    "country": "CANADA",
+    "city": "TORONTO, ON",
+    "date": "2027-10-22",
+    "time": "7:30 PM",
+    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
+    "venue": "USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027",
+    "status": "",
+    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
+    "id": "75a1cb15e7e0d1167955"
+  },
+  {
+    "country": "USA",
+    "city": "SAN FRANCISCO, CA",
+    "date": "2027-10-01",
+    "time": "TBA",
+    "orchestra": "San Francisco Symphony Davies Symphony Hall",
+    "venue": "on sale 25 Mar 2027",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "758f6a4afb99264dd88f"
+  },
+  {
+    "country": "USA",
+    "city": "CHICAGO, IL",
+    "date": "2027-02-22",
+    "time": "7:30 PM",
+    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "e1217a365015a6b37301"
+  },
+  {
+    "country": "USA",
+    "city": "CHICAGO, IL",
+    "date": "2027-02-23",
+    "time": "7:30 PM",
+    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "c07c223f1a752031982f"
   },
   {
     "country": "AUS",
@@ -203,10 +236,10 @@
     "date": "2027-07-09",
     "time": "7 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "AUS SYDNEY 10 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "1f859ca99e342e429538"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d0423f8673e8dfdb01d6"
   },
   {
     "country": "AUS",
@@ -214,10 +247,10 @@
     "date": "2027-07-10",
     "time": "2 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "AUS SYDNEY 10 JUL 2027 7 PM Sydney Symphony Orchestra Sydney Opera House tickets",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "a33908bb00e1b34b56e0"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "0d06ac5dcc5ec24658f5"
   },
   {
     "country": "AUS",
@@ -225,10 +258,10 @@
     "date": "2027-07-10",
     "time": "7 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "USA SEATTLE, WA 16 JUL 2027 8 PM Seattle Symphony Benaroya Hall sold out",
+    "venue": "sold out",
     "status": "",
-    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "907c8f2389e16c7d30a0"
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "aedf4dfcd3aea60ccbfb"
   },
   {
     "country": "USA",
@@ -372,38 +405,5 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "53e9ac194f4b35509e53"
-  },
-  {
-    "country": "CANADA",
-    "city": "TORONTO, ON",
-    "date": "2027-10-21",
-    "time": "7:30 PM",
-    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
-    "venue": "CANADA TORONTO, ON 22 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
-    "status": "",
-    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
-    "id": "858f257796ebb0ae61a9"
-  },
-  {
-    "country": "CANADA",
-    "city": "TORONTO, ON",
-    "date": "2027-10-22",
-    "time": "7:30 PM",
-    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
-    "venue": "USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027",
-    "status": "",
-    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
-    "id": "75a1cb15e7e0d1167955"
-  },
-  {
-    "country": "USA",
-    "city": "SAN FRANCISCO, CA",
-    "date": "2027-10-01",
-    "time": "TBA",
-    "orchestra": "San Francisco Symphony Davies Symphony Hall",
-    "venue": "on sale 25 Mar 2027",
-    "status": "",
-    "url": "https://zelda.gameconcerts.com/",
-    "id": "758f6a4afb99264dd88f"
   }
 ]
