@@ -38,32 +38,10 @@
     "date": "2027-04-04",
     "time": "6:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "CANADA TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
+    "venue": "CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
     "status": "",
     "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "a70c32ae4e9f6f22a2ae"
-  },
-  {
-    "country": "CANADA",
-    "city": "TORONTO, ON",
-    "date": "2027-10-21",
-    "time": "7:30 PM",
-    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
-    "venue": "CANADA TORONTO, ON 22 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
-    "status": "",
-    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
-    "id": "858f257796ebb0ae61a9"
-  },
-  {
-    "country": "CANADA",
-    "city": "TORONTO, ON",
-    "date": "2027-10-22",
-    "time": "7:30 PM",
-    "orchestra": "Toronto Symphony Orchestra Roy Thomson Hall",
-    "venue": "USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027",
-    "status": "",
-    "url": "https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda",
-    "id": "75a1cb15e7e0d1167955"
+    "id": "b8d4e74d712cced6beb6"
   },
   {
     "country": "USA",

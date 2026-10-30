@@ -6,7 +6,20 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 07:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:07:43 GMT</lastBuildDate>
+    <item>
+      <title>LONDON — 2027-04-04 — 6:30 PM</title>
+      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
+      <guid isPermaLink="false">zelda-b8d4e74d712cced6beb6</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-04
+Time: 6:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
+      <pubDate>Fri, 30 Oct 2026 14:07:43 GMT</pubDate>
+      <category>UK</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -69,19 +82,6 @@ Date: 2027-04-04
 Time: 1:30 PM
 Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: UK LONDON 4 APR 2027 6:30 PM London Symphony Orchestra Royal Albert Hall info</description>
-      <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-04 — 6:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-a70c32ae4e9f6f22a2ae</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-04
-Time: 6:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: CANADA TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
       <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
@@ -461,32 +461,6 @@ Orchestra: Orchestra of St. Luke's Carnegie Hall
 Venue: sold out</description>
       <pubDate>Sun, 10 Oct 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
-    </item>
-    <item>
-      <title>TORONTO, ON — 2027-10-21 — 7:30 PM</title>
-      <link>https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-858f257796ebb0ae61a9</guid>
-      <description>Country: CANADA
-City: TORONTO, ON
-Date: 2027-10-21
-Time: 7:30 PM
-Orchestra: Toronto Symphony Orchestra Roy Thomson Hall
-Venue: CANADA TORONTO, ON 22 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
-      <pubDate>Thu, 21 Oct 2027 00:00:00 GMT</pubDate>
-      <category>CANADA</category>
-    </item>
-    <item>
-      <title>TORONTO, ON — 2027-10-22 — 7:30 PM</title>
-      <link>https://www.tso.ca/concerts-and-events/events/the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-75a1cb15e7e0d1167955</guid>
-      <description>Country: CANADA
-City: TORONTO, ON
-Date: 2027-10-22
-Time: 7:30 PM
-Orchestra: Toronto Symphony Orchestra Roy Thomson Hall
-Venue: USA SAN FRANCISCO, CA OCT 2027 TBA San Francisco Symphony Davies Symphony Hall on sale 25 Mar 2027</description>
-      <pubDate>Fri, 22 Oct 2027 00:00:00 GMT</pubDate>
-      <category>CANADA</category>
     </item>
   </channel>
 </rss>
