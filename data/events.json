@@ -1,16 +1,5 @@
 [
   {
-    "country": "UK",
-    "city": "LONDON",
-    "date": "2027-04-03",
-    "time": "2:30 PM",
-    "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
-    "status": "",
-    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "e221d3833ed0171ec937"
-  },
-  {
     "country": "USA",
     "city": "SAN FRANCISCO, CA",
     "date": "2027-10-01",
@@ -42,6 +31,17 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "c07c223f1a752031982f"
+  },
+  {
+    "country": "UK",
+    "city": "LONDON",
+    "date": "2027-04-03",
+    "time": "2:30 PM",
+    "orchestra": "London Symphony Orchestra Royal Albert Hall",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d7723c8b9171f2dd45c4"
   },
   {
     "country": "UK",

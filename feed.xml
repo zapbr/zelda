@@ -6,7 +6,20 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 03:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:19:43 GMT</lastBuildDate>
+    <item>
+      <title>LONDON — 2027-04-03 — 2:30 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-d7723c8b9171f2dd45c4</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-03
+Time: 2:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: sold out</description>
+      <pubDate>Thu, 05 Nov 2026 12:19:43 GMT</pubDate>
+      <category>UK</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
@@ -32,19 +45,6 @@ Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
 Venue: sold out</description>
       <pubDate>Tue, 23 Feb 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-03 — 2:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-e221d3833ed0171ec937</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-03
-Time: 2:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
-      <pubDate>Sat, 03 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
     </item>
     <item>
       <title>LONDON — 2027-04-03 — 7:30 PM</title>
