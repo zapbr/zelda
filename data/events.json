@@ -1,14 +1,91 @@
 [
   {
+    "country": "UK",
+    "city": "LONDON",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "orchestra": "London Symphony Orchestra Royal Albert Hall",
+    "venue": "ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "status": "",
+    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "2ffd01faf30e2636e741"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-17",
+    "time": "8:30 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "status": "",
+    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
+    "id": "0431b476c8ed294b8d5d"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-18",
+    "time": "3 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "status": "",
+    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
+    "id": "3a78a38101daaef00556"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-18",
+    "time": "7:30 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "SWE STOCKHOLM 19 JUN 2027 3 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm info",
+    "status": "",
+    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
+    "id": "d2e474e9ab700f27c5d0"
+  },
+  {
+    "country": "SWE",
+    "city": "STOCKHOLM",
+    "date": "2027-06-19",
+    "time": "3 PM",
+    "orchestra": "Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm",
+    "venue": "AUS SYDNEY 9 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House info",
+    "status": "",
+    "url": "https://www.konserthuset.se/en/programme/calendar/concert/2027/the-legend-of-zelda-40th-anniversary-concert/20270619-1500/",
+    "id": "a0824fb0b14f0b137c22"
+  },
+  {
     "country": "AUS",
     "city": "SYDNEY",
     "date": "2027-07-09",
     "time": "2 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
+    "venue": "NLD AMSTERDAM 6 SEP 2027 8:15 PM Netherlands Philharmonic Orchestra Concertgebouw Amsterdam info",
     "status": "",
     "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "8dc20fc97f16cd8ba0ac"
+    "id": "971dd4283dab14362040"
+  },
+  {
+    "country": "UK",
+    "city": "EDINBURGH",
+    "date": "2027-09-17",
+    "time": "3 PM",
+    "orchestra": "Royal Scottish National Orchestra Usher Hall",
+    "venue": "UK GLASGOW 18 SEP 2027 3 PM Royal Scottish National Orchestra Glasgow Royal Concert Hall info",
+    "status": "",
+    "url": "https://cultureedinburgh.com/events/the-legend-of-zelda-40th-anniversary-concert",
+    "id": "2d89c8385a51af20b8a4"
+  },
+  {
+    "country": "UK",
+    "city": "GLASGOW",
+    "date": "2027-09-18",
+    "time": "3 PM",
+    "orchestra": "Royal Scottish National Orchestra Glasgow Royal Concert Hall",
+    "venue": "CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
+    "status": "",
+    "url": "https://www.glasgowlife.org.uk/features/special-events/rsno-presents-the-legend-of-zelda-40th-anniversary-concert",
+    "id": "4589829f3c39928749d4"
   },
   {
     "country": "USA",
@@ -20,6 +97,39 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "758f6a4afb99264dd88f"
+  },
+  {
+    "country": "FRA",
+    "city": "PARIS",
+    "date": "2027-11-13",
+    "time": "8 PM",
+    "orchestra": "Orchestre Colonne Philharmonie de Paris",
+    "venue": "on sale TBA",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "41647cb3f2861d11eccb"
+  },
+  {
+    "country": "FRA",
+    "city": "PARIS",
+    "date": "2027-11-14",
+    "time": "3 PM",
+    "orchestra": "Orchestre Colonne Philharmonie de Paris",
+    "venue": "on sale TBA",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "9cc4c6f0bed671a55db2"
+  },
+  {
+    "country": "FRA",
+    "city": "PARIS",
+    "date": "2027-11-14",
+    "time": "7 PM",
+    "orchestra": "Orchestre Colonne Philharmonie de Paris",
+    "venue": "on sale TBA",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "dad3e905f6f0a849266a"
   },
   {
     "country": "USA",
