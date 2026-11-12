@@ -6,7 +6,20 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 21:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:58:49 GMT</lastBuildDate>
+    <item>
+      <title>SYDNEY — 2027-07-09 — 2 PM</title>
+      <link>https://www.sydneysymphony.com/events/the-legend-of-zelda-2027</link>
+      <guid isPermaLink="false">zelda-8dc20fc97f16cd8ba0ac</guid>
+      <description>Country: AUS
+City: SYDNEY
+Date: 2027-07-09
+Time: 2 PM
+Orchestra: Sydney Symphony Orchestra Sydney Opera House
+Venue: CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
+      <pubDate>Thu, 12 Nov 2026 02:58:49 GMT</pubDate>
+      <category>AUS</category>
+    </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
