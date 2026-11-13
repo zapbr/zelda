@@ -1,5 +1,16 @@
 [
   {
+    "country": "USA",
+    "city": "CHICAGO, IL",
+    "date": "2027-02-26",
+    "time": "7:30 PM",
+    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
+    "venue": "UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall info",
+    "status": "",
+    "url": "https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/",
+    "id": "11ed35fb69559076e0a1"
+  },
+  {
     "country": "UK",
     "city": "LONDON",
     "date": "2027-04-06",
@@ -60,10 +71,65 @@
     "date": "2027-07-09",
     "time": "2 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "NLD AMSTERDAM 6 SEP 2027 8:15 PM Netherlands Philharmonic Orchestra Concertgebouw Amsterdam info",
+    "venue": "USA SEATTLE, WA 15 JUL 2027 7:30 PM Seattle Symphony Benaroya Hall info",
     "status": "",
     "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "971dd4283dab14362040"
+    "id": "2db43225327f5ca5c743"
+  },
+  {
+    "country": "USA",
+    "city": "SEATTLE, WA",
+    "date": "2027-07-15",
+    "time": "7:30 PM",
+    "orchestra": "Seattle Symphony Benaroya Hall",
+    "venue": "USA HOUSTON, TX 24 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts info",
+    "status": "",
+    "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
+    "id": "0122b7e66d455616845e"
+  },
+  {
+    "country": "USA",
+    "city": "HOUSTON, TX",
+    "date": "2027-07-24",
+    "time": "7:30 PM",
+    "orchestra": "Houston Symphony Jones Hall for the Performing Arts",
+    "venue": "USA VIENNA, VA 31 JUL 2027 2 PM National Symphony Orchestra Filene Center at Wolf Trap info",
+    "status": "",
+    "url": "https://houstonsymphony.org/performance/the-legend-of-zelda-40th-anniversary-concert/",
+    "id": "12788ae90c94bf8400d5"
+  },
+  {
+    "country": "USA",
+    "city": "VIENNA, VA",
+    "date": "2027-07-31",
+    "time": "2 PM",
+    "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
+    "venue": "USA VIENNA, VA 1 AUG 2027 7:30 PM National Symphony Orchestra Filene Center at Wolf Trap info",
+    "status": "",
+    "url": "https://www.wolftrap.org/show/27filene/073027/",
+    "id": "4cf42777a394170758bd"
+  },
+  {
+    "country": "USA",
+    "city": "VIENNA, VA",
+    "date": "2027-08-01",
+    "time": "7:30 PM",
+    "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
+    "venue": "USA LOS ANGELES, CA 23 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl info",
+    "status": "",
+    "url": "https://www.wolftrap.org/show/27filene/073027/",
+    "id": "dd814bda9f7ddcba7ca1"
+  },
+  {
+    "country": "USA",
+    "city": "LOS ANGELES, CA",
+    "date": "2027-08-23",
+    "time": "8 PM",
+    "orchestra": "Hollywood Bowl Orchestra Hollywood Bowl",
+    "venue": "NLD AMSTERDAM 6 SEP 2027 8:15 PM Netherlands Philharmonic Orchestra Concertgebouw Amsterdam info",
+    "status": "",
+    "url": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda",
+    "id": "9691c44750287ccb5074"
   },
   {
     "country": "UK",
