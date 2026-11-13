@@ -1,69 +1,14 @@
 [
   {
-    "country": "USA",
-    "city": "CHICAGO, IL",
-    "date": "2027-02-26",
-    "time": "7:30 PM",
-    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall tickets",
-    "status": "",
-    "url": "https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/",
-    "id": "1630db2bd0623da865d0"
-  },
-  {
-    "country": "UK",
-    "city": "LONDON",
-    "date": "2027-04-06",
-    "time": "7:30 PM",
-    "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
-    "status": "",
-    "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "4d21dfed3e1cf4b512ea"
-  },
-  {
-    "country": "ITA",
-    "city": "ROME",
-    "date": "2027-04-17",
-    "time": "8:30 PM",
-    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
-    "status": "",
-    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
-    "id": "8f7493b56e8d566028d4"
-  },
-  {
-    "country": "ITA",
-    "city": "ROME",
-    "date": "2027-04-18",
-    "time": "3 PM",
-    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
-    "status": "",
-    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
-    "id": "5c07f7c47edef382ad36"
-  },
-  {
-    "country": "ITA",
-    "city": "ROME",
-    "date": "2027-04-18",
-    "time": "7:30 PM",
-    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "AUS SYDNEY 9 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets",
-    "status": "",
-    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
-    "id": "4afd3f60868fa2e7d876"
-  },
-  {
     "country": "AUS",
     "city": "SYDNEY",
     "date": "2027-07-09",
     "time": "2 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "USA SEATTLE, WA 15 JUL 2027 7:30 PM Seattle Symphony Benaroya Hall info",
+    "venue": "USA SEATTLE, WA 15 JUL 2027 7:30 PM Seattle Symphony Benaroya Hall tickets",
     "status": "",
     "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "2db43225327f5ca5c743"
+    "id": "fe17c69d164cb4c22464"
   },
   {
     "country": "USA",
@@ -71,10 +16,10 @@
     "date": "2027-07-15",
     "time": "7:30 PM",
     "orchestra": "Seattle Symphony Benaroya Hall",
-    "venue": "USA HOUSTON, TX 24 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts info",
+    "venue": "USA HOUSTON, TX 24 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts tickets",
     "status": "",
     "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
-    "id": "0122b7e66d455616845e"
+    "id": "4ce6296fac1de1cfcde9"
   },
   {
     "country": "USA",
@@ -82,10 +27,10 @@
     "date": "2027-07-24",
     "time": "7:30 PM",
     "orchestra": "Houston Symphony Jones Hall for the Performing Arts",
-    "venue": "USA VIENNA, VA 31 JUL 2027 2 PM National Symphony Orchestra Filene Center at Wolf Trap info",
+    "venue": "USA VIENNA, VA 31 JUL 2027 2 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
     "status": "",
     "url": "https://houstonsymphony.org/performance/the-legend-of-zelda-40th-anniversary-concert/",
-    "id": "12788ae90c94bf8400d5"
+    "id": "43037c37928c6507c247"
   },
   {
     "country": "USA",
@@ -93,10 +38,10 @@
     "date": "2027-07-31",
     "time": "2 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
-    "venue": "USA VIENNA, VA 1 AUG 2027 7:30 PM National Symphony Orchestra Filene Center at Wolf Trap info",
+    "venue": "USA VIENNA, VA 1 AUG 2027 7:30 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
     "status": "",
     "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "4cf42777a394170758bd"
+    "id": "0ced049ccf8a99ad0a4e"
   },
   {
     "country": "USA",
@@ -104,10 +49,10 @@
     "date": "2027-08-01",
     "time": "7:30 PM",
     "orchestra": "National Symphony Orchestra Filene Center at Wolf Trap",
-    "venue": "USA LOS ANGELES, CA 23 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl info",
+    "venue": "USA LOS ANGELES, CA 23 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood Bowl tickets",
     "status": "",
     "url": "https://www.wolftrap.org/show/27filene/073027/",
-    "id": "dd814bda9f7ddcba7ca1"
+    "id": "f3653537449fb34a2c28"
   },
   {
     "country": "USA",
@@ -117,7 +62,7 @@
     "orchestra": "Hollywood Bowl Orchestra Hollywood Bowl",
     "venue": "GER FRANKFURT AM MAIN 10 SEP 2027 8 PM Frankfurt Radio Symphony Alte Oper info",
     "status": "",
-    "url": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda",
+    "url": "https://www.hollywoodbowl.com/events/instances/t1fn77gy/2027-08-23/the-legend-of-zelda",
     "id": "381e565932ead7e18053"
   },
   {
@@ -187,6 +132,17 @@
     "id": "c07c223f1a752031982f"
   },
   {
+    "country": "USA",
+    "city": "CHICAGO, IL",
+    "date": "2027-02-26",
+    "time": "7:30 PM",
+    "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "e0d20cb6c04fc0ac154f"
+  },
+  {
     "country": "UK",
     "city": "LONDON",
     "date": "2027-04-03",
@@ -229,6 +185,50 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "223d5a4c3703713630e6"
+  },
+  {
+    "country": "UK",
+    "city": "LONDON",
+    "date": "2027-04-06",
+    "time": "7:30 PM",
+    "orchestra": "London Symphony Orchestra Royal Albert Hall",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "d38e6cccc5fab0aab049"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-17",
+    "time": "8:30 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "9b8399496f866b949320"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-18",
+    "time": "3 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "aebe4773f6339a76270f"
+  },
+  {
+    "country": "ITA",
+    "city": "ROME",
+    "date": "2027-04-18",
+    "time": "7:30 PM",
+    "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "0f7566b212b706ddc01a"
   },
   {
     "country": "AUS",
