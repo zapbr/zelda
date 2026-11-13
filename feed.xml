@@ -6,19 +6,123 @@
     <description>New and changed concerts from the official Game Concerts site.</description>
     <language>en</language>
     <link href="https://zapbr.github.io/zelda/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 07:57:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:22:58 GMT</lastBuildDate>
+    <item>
+      <title>CHICAGO, IL — 2027-02-26 — 7:30 PM</title>
+      <link>https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/</link>
+      <guid isPermaLink="false">zelda-1630db2bd0623da865d0</guid>
+      <description>Country: USA
+City: CHICAGO, IL
+Date: 2027-02-26
+Time: 7:30 PM
+Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
+Venue: UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall tickets</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>LONDON — 2027-04-06 — 7:30 PM</title>
+      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
+      <guid isPermaLink="false">zelda-4d21dfed3e1cf4b512ea</guid>
+      <description>Country: UK
+City: LONDON
+Date: 2027-04-06
+Time: 7:30 PM
+Orchestra: London Symphony Orchestra Royal Albert Hall
+Venue: ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>ROME — 2027-04-17 — 8:30 PM</title>
+      <link>https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/</link>
+      <guid isPermaLink="false">zelda-8f7493b56e8d566028d4</guid>
+      <description>Country: ITA
+City: ROME
+Date: 2027-04-17
+Time: 8:30 PM
+Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
+Venue: ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>ITA</category>
+    </item>
+    <item>
+      <title>ROME — 2027-04-18 — 3 PM</title>
+      <link>https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/</link>
+      <guid isPermaLink="false">zelda-5c07f7c47edef382ad36</guid>
+      <description>Country: ITA
+City: ROME
+Date: 2027-04-18
+Time: 3 PM
+Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
+Venue: ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>ITA</category>
+    </item>
+    <item>
+      <title>ROME — 2027-04-18 — 7:30 PM</title>
+      <link>https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/</link>
+      <guid isPermaLink="false">zelda-4afd3f60868fa2e7d876</guid>
+      <description>Country: ITA
+City: ROME
+Date: 2027-04-18
+Time: 7:30 PM
+Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
+Venue: AUS SYDNEY 9 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>ITA</category>
+    </item>
     <item>
       <title>STOCKHOLM — 2027-06-19 — 3 PM</title>
-      <link>https://www.konserthuset.se/en/programme/calendar/concert/2027/the-legend-of-zelda-40th-anniversary-concert/20270619-1500/</link>
-      <guid isPermaLink="false">zelda-99ea2a46ad9c3cfe0926</guid>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-17fee69ba4ae89fbb4b5</guid>
       <description>Country: SWE
 City: STOCKHOLM
 Date: 2027-06-19
 Time: 3 PM
 Orchestra: Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm
-Venue: AUS SYDNEY 9 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets</description>
-      <pubDate>Fri, 13 Nov 2026 07:57:17 GMT</pubDate>
+Venue: sold out</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
       <category>SWE</category>
+    </item>
+    <item>
+      <title>LOS ANGELES, CA — 2027-08-23 — 8 PM</title>
+      <link>https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda</link>
+      <guid isPermaLink="false">zelda-381e565932ead7e18053</guid>
+      <description>Country: USA
+City: LOS ANGELES, CA
+Date: 2027-08-23
+Time: 8 PM
+Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
+Venue: GER FRANKFURT AM MAIN 10 SEP 2027 8 PM Frankfurt Radio Symphony Alte Oper info</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>USA</category>
+    </item>
+    <item>
+      <title>EDINBURGH — 2027-09-17 — 3 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-1ad34bb505385acfba9c</guid>
+      <description>Country: UK
+City: EDINBURGH
+Date: 2027-09-17
+Time: 3 PM
+Orchestra: Royal Scottish National Orchestra Usher Hall
+Venue: sold out</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>UK</category>
+    </item>
+    <item>
+      <title>GLASGOW — 2027-09-18 — 3 PM</title>
+      <link>https://zelda.gameconcerts.com/</link>
+      <guid isPermaLink="false">zelda-52730e95c779b586496d</guid>
+      <description>Country: UK
+City: GLASGOW
+Date: 2027-09-18
+Time: 3 PM
+Orchestra: Royal Scottish National Orchestra Glasgow Royal Concert Hall
+Venue: sold out</description>
+      <pubDate>Fri, 13 Nov 2026 16:22:58 GMT</pubDate>
+      <category>UK</category>
     </item>
     <item>
       <title>CHICAGO, IL — 2027-02-22 — 7:30 PM</title>
@@ -44,19 +148,6 @@ Time: 7:30 PM
 Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
 Venue: sold out</description>
       <pubDate>Tue, 23 Feb 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
-      <title>CHICAGO, IL — 2027-02-26 — 7:30 PM</title>
-      <link>https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-11ed35fb69559076e0a1</guid>
-      <description>Country: USA
-City: CHICAGO, IL
-Date: 2027-02-26
-Time: 7:30 PM
-Orchestra: Members of the Chicago Symphony Orchestra Symphony Center
-Venue: UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall info</description>
-      <pubDate>Fri, 26 Feb 2027 00:00:00 GMT</pubDate>
       <category>USA</category>
     </item>
     <item>
@@ -110,58 +201,6 @@ Orchestra: London Symphony Orchestra Royal Albert Hall
 Venue: sold out</description>
       <pubDate>Sun, 04 Apr 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
-    </item>
-    <item>
-      <title>LONDON — 2027-04-06 — 7:30 PM</title>
-      <link>https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-2ffd01faf30e2636e741</guid>
-      <description>Country: UK
-City: LONDON
-Date: 2027-04-06
-Time: 7:30 PM
-Orchestra: London Symphony Orchestra Royal Albert Hall
-Venue: ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info</description>
-      <pubDate>Tue, 06 Apr 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>ROME — 2027-04-17 — 8:30 PM</title>
-      <link>https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-0431b476c8ed294b8d5d</guid>
-      <description>Country: ITA
-City: ROME
-Date: 2027-04-17
-Time: 8:30 PM
-Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
-Venue: ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione info</description>
-      <pubDate>Sat, 17 Apr 2027 00:00:00 GMT</pubDate>
-      <category>ITA</category>
-    </item>
-    <item>
-      <title>ROME — 2027-04-18 — 3 PM</title>
-      <link>https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-3a78a38101daaef00556</guid>
-      <description>Country: ITA
-City: ROME
-Date: 2027-04-18
-Time: 3 PM
-Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
-Venue: ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info</description>
-      <pubDate>Sun, 18 Apr 2027 00:00:00 GMT</pubDate>
-      <category>ITA</category>
-    </item>
-    <item>
-      <title>ROME — 2027-04-18 — 7:30 PM</title>
-      <link>https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/</link>
-      <guid isPermaLink="false">zelda-d2e474e9ab700f27c5d0</guid>
-      <description>Country: ITA
-City: ROME
-Date: 2027-04-18
-Time: 7:30 PM
-Orchestra: Orchestra Italiana del Cinema Auditorium Conciliazione
-Venue: SWE STOCKHOLM 19 JUN 2027 3 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm info</description>
-      <pubDate>Sun, 18 Apr 2027 00:00:00 GMT</pubDate>
-      <category>ITA</category>
     </item>
     <item>
       <title>MELBOURNE — 2027-05-13 — 7:30 PM</title>
@@ -515,19 +554,6 @@ Venue: USA LOS ANGELES, CA 23 AUG 2027 8 PM Hollywood Bowl Orchestra Hollywood B
       <category>USA</category>
     </item>
     <item>
-      <title>LOS ANGELES, CA — 2027-08-23 — 8 PM</title>
-      <link>https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda</link>
-      <guid isPermaLink="false">zelda-9691c44750287ccb5074</guid>
-      <description>Country: USA
-City: LOS ANGELES, CA
-Date: 2027-08-23
-Time: 8 PM
-Orchestra: Hollywood Bowl Orchestra Hollywood Bowl
-Venue: NLD AMSTERDAM 6 SEP 2027 8:15 PM Netherlands Philharmonic Orchestra Concertgebouw Amsterdam info</description>
-      <pubDate>Mon, 23 Aug 2027 00:00:00 GMT</pubDate>
-      <category>USA</category>
-    </item>
-    <item>
       <title>LOS ANGELES, CA — 2027-08-25 — 8 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
       <guid isPermaLink="false">zelda-8a9afd8f586be2c4e490</guid>
@@ -541,19 +567,6 @@ Venue: sold out</description>
       <category>USA</category>
     </item>
     <item>
-      <title>EDINBURGH — 2027-09-17 — 3 PM</title>
-      <link>https://cultureedinburgh.com/events/the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-2d89c8385a51af20b8a4</guid>
-      <description>Country: UK
-City: EDINBURGH
-Date: 2027-09-17
-Time: 3 PM
-Orchestra: Royal Scottish National Orchestra Usher Hall
-Venue: UK GLASGOW 18 SEP 2027 3 PM Royal Scottish National Orchestra Glasgow Royal Concert Hall info</description>
-      <pubDate>Fri, 17 Sep 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
       <title>EDINBURGH — 2027-09-17 — 7:30 PM</title>
       <link>https://zelda.gameconcerts.com/</link>
       <guid isPermaLink="false">zelda-5f7795ea5d9e0eb20ee1</guid>
@@ -564,19 +577,6 @@ Time: 7:30 PM
 Orchestra: Royal Scottish National Orchestra Usher Hall
 Venue: sold out</description>
       <pubDate>Fri, 17 Sep 2027 00:00:00 GMT</pubDate>
-      <category>UK</category>
-    </item>
-    <item>
-      <title>GLASGOW — 2027-09-18 — 3 PM</title>
-      <link>https://www.glasgowlife.org.uk/features/special-events/rsno-presents-the-legend-of-zelda-40th-anniversary-concert</link>
-      <guid isPermaLink="false">zelda-4589829f3c39928749d4</guid>
-      <description>Country: UK
-City: GLASGOW
-Date: 2027-09-18
-Time: 3 PM
-Orchestra: Royal Scottish National Orchestra Glasgow Royal Concert Hall
-Venue: CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info</description>
-      <pubDate>Sat, 18 Sep 2027 00:00:00 GMT</pubDate>
       <category>UK</category>
     </item>
     <item>

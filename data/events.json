@@ -5,10 +5,10 @@
     "date": "2027-02-26",
     "time": "7:30 PM",
     "orchestra": "Members of the Chicago Symphony Orchestra Symphony Center",
-    "venue": "UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall info",
+    "venue": "UK LONDON 6 APR 2027 7:30 PM London Symphony Orchestra Royal Albert Hall tickets",
     "status": "",
     "url": "https://chicagosymphony.org/performances/26-27/featured/the-legend-of-zelda/",
-    "id": "11ed35fb69559076e0a1"
+    "id": "1630db2bd0623da865d0"
   },
   {
     "country": "UK",
@@ -16,10 +16,10 @@
     "date": "2027-04-06",
     "time": "7:30 PM",
     "orchestra": "London Symphony Orchestra Royal Albert Hall",
-    "venue": "ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "venue": "ITA ROME 17 APR 2027 8:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
     "status": "",
     "url": "https://www.royalalberthall.com/tickets/events/2027/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "2ffd01faf30e2636e741"
+    "id": "4d21dfed3e1cf4b512ea"
   },
   {
     "country": "ITA",
@@ -27,10 +27,10 @@
     "date": "2027-04-17",
     "time": "8:30 PM",
     "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "venue": "ITA ROME 18 APR 2027 3 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
     "status": "",
-    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
-    "id": "0431b476c8ed294b8d5d"
+    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
+    "id": "8f7493b56e8d566028d4"
   },
   {
     "country": "ITA",
@@ -38,10 +38,10 @@
     "date": "2027-04-18",
     "time": "3 PM",
     "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione info",
+    "venue": "ITA ROME 18 APR 2027 7:30 PM Orchestra Italiana del Cinema Auditorium Conciliazione tickets",
     "status": "",
-    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
-    "id": "3a78a38101daaef00556"
+    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
+    "id": "5c07f7c47edef382ad36"
   },
   {
     "country": "ITA",
@@ -49,21 +49,10 @@
     "date": "2027-04-18",
     "time": "7:30 PM",
     "orchestra": "Orchestra Italiana del Cinema Auditorium Conciliazione",
-    "venue": "SWE STOCKHOLM 19 JUN 2027 3 PM Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm info",
-    "status": "",
-    "url": "https://www.orchestraitalianadelcinema.it/the-legend-of-zelda/",
-    "id": "d2e474e9ab700f27c5d0"
-  },
-  {
-    "country": "SWE",
-    "city": "STOCKHOLM",
-    "date": "2027-06-19",
-    "time": "3 PM",
-    "orchestra": "Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm",
     "venue": "AUS SYDNEY 9 JUL 2027 2 PM Sydney Symphony Orchestra Sydney Opera House tickets",
     "status": "",
-    "url": "https://www.konserthuset.se/en/programme/calendar/concert/2027/the-legend-of-zelda-40th-anniversary-concert/20270619-1500/",
-    "id": "99ea2a46ad9c3cfe0926"
+    "url": "https://www.ticketone.it/eventseries/the-legend-of-zelda-40th-anniversary-concert-4285913/",
+    "id": "4afd3f60868fa2e7d876"
   },
   {
     "country": "AUS",
@@ -126,32 +115,10 @@
     "date": "2027-08-23",
     "time": "8 PM",
     "orchestra": "Hollywood Bowl Orchestra Hollywood Bowl",
-    "venue": "NLD AMSTERDAM 6 SEP 2027 8:15 PM Netherlands Philharmonic Orchestra Concertgebouw Amsterdam info",
+    "venue": "GER FRANKFURT AM MAIN 10 SEP 2027 8 PM Frankfurt Radio Symphony Alte Oper info",
     "status": "",
     "url": "https://www.hollywoodbowl.com/events/performances/4909/2027-08-25/the-legend-of-zelda",
-    "id": "9691c44750287ccb5074"
-  },
-  {
-    "country": "UK",
-    "city": "EDINBURGH",
-    "date": "2027-09-17",
-    "time": "3 PM",
-    "orchestra": "Royal Scottish National Orchestra Usher Hall",
-    "venue": "UK GLASGOW 18 SEP 2027 3 PM Royal Scottish National Orchestra Glasgow Royal Concert Hall info",
-    "status": "",
-    "url": "https://cultureedinburgh.com/events/the-legend-of-zelda-40th-anniversary-concert",
-    "id": "2d89c8385a51af20b8a4"
-  },
-  {
-    "country": "UK",
-    "city": "GLASGOW",
-    "date": "2027-09-18",
-    "time": "3 PM",
-    "orchestra": "Royal Scottish National Orchestra Glasgow Royal Concert Hall",
-    "venue": "CAN TORONTO, ON 21 OCT 2027 7:30 PM Toronto Symphony Orchestra Roy Thomson Hall info",
-    "status": "",
-    "url": "https://www.glasgowlife.org.uk/features/special-events/rsno-presents-the-legend-of-zelda-40th-anniversary-concert",
-    "id": "4589829f3c39928749d4"
+    "id": "381e565932ead7e18053"
   },
   {
     "country": "USA",
@@ -355,6 +322,17 @@
     "country": "SWE",
     "city": "STOCKHOLM",
     "date": "2027-06-19",
+    "time": "3 PM",
+    "orchestra": "Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "17fee69ba4ae89fbb4b5"
+  },
+  {
+    "country": "SWE",
+    "city": "STOCKHOLM",
+    "date": "2027-06-19",
     "time": "7 PM",
     "orchestra": "Royal Stockholm Philharmonic Orchestra Konserthuset Stockholm",
     "venue": "sold out",
@@ -520,12 +498,34 @@
     "country": "UK",
     "city": "EDINBURGH",
     "date": "2027-09-17",
+    "time": "3 PM",
+    "orchestra": "Royal Scottish National Orchestra Usher Hall",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "1ad34bb505385acfba9c"
+  },
+  {
+    "country": "UK",
+    "city": "EDINBURGH",
+    "date": "2027-09-17",
     "time": "7:30 PM",
     "orchestra": "Royal Scottish National Orchestra Usher Hall",
     "venue": "sold out",
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "5f7795ea5d9e0eb20ee1"
+  },
+  {
+    "country": "UK",
+    "city": "GLASGOW",
+    "date": "2027-09-18",
+    "time": "3 PM",
+    "orchestra": "Royal Scottish National Orchestra Glasgow Royal Concert Hall",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "52730e95c779b586496d"
   },
   {
     "country": "UK",
