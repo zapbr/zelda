@@ -5,32 +5,10 @@
     "date": "2027-07-09",
     "time": "2 PM",
     "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "USA SEATTLE, WA 15 JUL 2027 7:30 PM Seattle Symphony Benaroya Hall tickets",
-    "status": "",
-    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "fe17c69d164cb4c22464"
-  },
-  {
-    "country": "USA",
-    "city": "SEATTLE, WA",
-    "date": "2027-07-15",
-    "time": "7:30 PM",
-    "orchestra": "Seattle Symphony Benaroya Hall",
-    "venue": "USA HOUSTON, TX 24 JUL 2027 7:30 PM Houston Symphony Jones Hall for the Performing Arts tickets",
-    "status": "",
-    "url": "https://benaroyahall.org/pdps/concertstickets/calendar/2026-2027/27-zelda",
-    "id": "4ce6296fac1de1cfcde9"
-  },
-  {
-    "country": "USA",
-    "city": "HOUSTON, TX",
-    "date": "2027-07-24",
-    "time": "7:30 PM",
-    "orchestra": "Houston Symphony Jones Hall for the Performing Arts",
     "venue": "USA VIENNA, VA 31 JUL 2027 2 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
     "status": "",
-    "url": "https://houstonsymphony.org/performance/the-legend-of-zelda-40th-anniversary-concert/",
-    "id": "43037c37928c6507c247"
+    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
+    "id": "d126b12f851fb8f79f1f"
   },
   {
     "country": "USA",
@@ -409,6 +387,17 @@
   {
     "country": "USA",
     "city": "SEATTLE, WA",
+    "date": "2027-07-15",
+    "time": "7:30 PM",
+    "orchestra": "Seattle Symphony Benaroya Hall",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "8d79804351d5a05d55d1"
+  },
+  {
+    "country": "USA",
+    "city": "SEATTLE, WA",
     "date": "2027-07-16",
     "time": "8 PM",
     "orchestra": "Seattle Symphony Benaroya Hall",
@@ -460,6 +449,17 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "1b2365d69fa9b70b47a0"
+  },
+  {
+    "country": "USA",
+    "city": "HOUSTON, TX",
+    "date": "2027-07-24",
+    "time": "7:30 PM",
+    "orchestra": "Houston Symphony Jones Hall for the Performing Arts",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "f110ec95f420685ca8d9"
   },
   {
     "country": "USA",
