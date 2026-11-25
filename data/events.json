@@ -1,16 +1,5 @@
 [
   {
-    "country": "AUS",
-    "city": "SYDNEY",
-    "date": "2027-07-09",
-    "time": "2 PM",
-    "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
-    "venue": "USA VIENNA, VA 31 JUL 2027 2 PM National Symphony Orchestra Filene Center at Wolf Trap tickets",
-    "status": "",
-    "url": "https://www.sydneysymphony.com/events/the-legend-of-zelda-2027",
-    "id": "d126b12f851fb8f79f1f"
-  },
-  {
     "country": "USA",
     "city": "VIENNA, VA",
     "date": "2027-07-31",
@@ -350,6 +339,17 @@
     "status": "",
     "url": "https://zelda.gameconcerts.com/",
     "id": "14d1ed7a448bc883b34b"
+  },
+  {
+    "country": "AUS",
+    "city": "SYDNEY",
+    "date": "2027-07-09",
+    "time": "2 PM",
+    "orchestra": "Sydney Symphony Orchestra Sydney Opera House",
+    "venue": "sold out",
+    "status": "",
+    "url": "https://zelda.gameconcerts.com/",
+    "id": "308438b11adfcdadaf70"
   },
   {
     "country": "AUS",
